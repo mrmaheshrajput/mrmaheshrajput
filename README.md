@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mahesh Rajput
 
-🚀 Machine Learning Engineer | 7 years of experience in tech
+🚀 Machine Learning Engineer | Data Scientist | Artificial Intelligence | ML Ops
 
 ## About Me
 
@@ -8,10 +8,9 @@ I'm a passionate machine learning engineer with a total of 7 years of experience
 
 ## Work Summary
 
-- Machine Learning Engineer with 7 years of experience
-- Skilled in handling multiple tasks and building ML pipelines
-- Expertise in NLP, Recommender Systems, and classical algorithms
-- Proficient in AWS SageMaker, Kubernetes, and Docker
+- Currenty working @ [ExpoPlatform](https://expoplatform.com/) as a Machine Learning Engineer
+- Have previously worked as a ML Solution provider and Data Scientist
+- Also have experience of working as a Technical consultant
 
 ## Connect with Me
 
@@ -24,8 +23,8 @@ I'm a passionate machine learning engineer with a total of 7 years of experience
 - Machine Learning / Data Science - Recommender Systems, NLP, Deep Learning
 - Python3 and Django
 - AWS QuickSight for analytics
-- Streaming ingestion, processing, and analytics with Amazon Kinesis
-- CI/CD using Bitbucket Pipelines
+- Streaming ingestion, processing, and analytics with Amazon Kinesis and Apache Kafka
+- CI/CD using Bitbucket Pipelines, GitLabs, Jenkins
 - SQL skills and basic knowledge of C & C++
 
 Let's build the future together! Feel free to connect with me on LinkedIn or check out my articles on Medium for more insights into the world of machine learning and technology. 😊
