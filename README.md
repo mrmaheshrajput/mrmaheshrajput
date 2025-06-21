@@ -12,12 +12,12 @@
 
 <h2 align="left">About Me</h2>
 
-I'm a passionate machine learning engineer with a total of 8 years of experience in the tech industry. I thrive on challenges and enjoy building end-to-end machine learning pipelines. My expertise spans various domains, with proven experience in NLP, Recommender Systems, and classical algorithms. I love working with cutting-edge technologies, and I'm well-versed in AWS SageMaker, Docker, Kubernetes, and more.
+I'm a passionate machine learning engineer with a total of 10 years of experience in the tech industry. My expertise spans various domains, with proven experience in NLP, Recommender Systems, and classical algorithms. I'm well-versed in AWS SageMaker, Docker, Kubernetes, and more.
 
 <h2 align="left">Work Summary</h2>
 
-- Currenty working @ [ExpoPlatform](https://expoplatform.com/) as a Machine Learning Engineer
-- Have previously worked as a ML Solution provider and Data Scientist
+- Currenty working @ [SupportLogic](https://www.supportlogic.com/) as a Machine Learning Engineer
+- Have previously worked as a ML Solution provider, Data Scientist and Business Analyst
 - Also have experience of working as a Technical consultant
 
 <h2 align="left">Connect with me:</h2>
@@ -29,8 +29,9 @@ I'm a passionate machine learning engineer with a total of 8 years of experience
 
 <h2 align="left">Tools & Technologies</h2>
 
-- AWS SageMaker for workflow orchestration
+- AWS SageMaker for managing entire lifecycle of machine learning models and workflow orchestration
 - Docker & Kubernetes, AWS ECS
+- Google Vertex AI and Cloud Run
 - Machine Learning / Data Science - Recommender Systems, NLP, Deep Learning
 - Python3 and Django
 - AWS QuickSight for analytics
